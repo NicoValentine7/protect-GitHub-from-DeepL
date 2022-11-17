@@ -1,0 +1,13 @@
+{
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "host_permissions": [  ],
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlZp4nzlZZkr8BZYCSdbAcCRKVpDSjEaRtIVMHqGknr5Vn5hDPBpSbPqi/iNauXRXBEYvhufL697F4MlFSGGpvzaPvu1DcQVoVQ8c1y1UWnidzILNx0SP2/Ud4emVi4UzDNJSHsnWaSoxfWNpOZOpd1CWndZuKlqRkTMZAWprq5mvYxnvyDNi6ZuxPs6dWw6//mTEnoXMG95+5HNurLx1cKGP/oR+1pxpCWSGwP80UUwLJkVjyKP/bIOBhBRUAMZSf3B0WiIDuWumoLcWdD7eF5m3Atdec2tl9wCERD3DiI/rqhuzNHVPBLBAmVgpGUbplOxa2zXo8ze7UzPbV2RiNQIDAQAB",
+   "manifest_version": 3,
+   "name": "DeepL Code Blocker",
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}
